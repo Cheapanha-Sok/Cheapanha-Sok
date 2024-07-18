@@ -248,9 +248,9 @@
 
   </g>
 
-  <!-- Hi, I'm Sok cheapanha -->
+  <!-- Hi, I'm Sok Cheapanha -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="220" height="42" rx="18.0355" />
+    <rect width="230" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Sok Cheapanha!</text>
   </g>
 
@@ -274,14 +274,14 @@
 
   <!-- From Cambodia -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="550" height="68.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="30">Infomation technology and enginnering at RUPP</text>
+    <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="30">ITE at Royal University of Phnom Penh</text>
     <text x="15" y="50">Phnom Penh, Cambodia</text>
   </g>
 
   <!-- typing 3 -->
   <g transform="translate(10, 120)" class="typing-3">
-  <rect x="8.27246" width="66.7276" height="42" rx="50.9774" class="bubble" />
+  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
@@ -299,7 +299,7 @@
   
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="250" height="66" rx="28.0355" class="bubble" />
+    <rect width="240" height="66" rx="18.0355" class="bubble" />
     <text x="15" y="30">React, Springboot</text>
     <text x="15" y="50">and Springboot Developer</text>
   </g>
@@ -323,9 +323,9 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="420" height="42" rx="18.0355" class="bubble" />
+    <rect width="450" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on Linked at
+      You can find me on linkedin at
       <a xlink:href="https://www.linkedin.com/in/Sok-Cheapanha">Sok-Cheapanha</a>
     </text>
   </g>
@@ -350,7 +350,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="430" height="42" rx="18.0355" class="bubble" />
+    <rect width="450" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm Application Programming Interface Enthusiast.</text>
   </g>
 
