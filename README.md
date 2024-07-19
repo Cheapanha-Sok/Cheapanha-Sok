@@ -2,7 +2,7 @@
 [<img src="panha.svg" />](https://www.linkedin.com/in/sok-cheapanha)
 
 ## Live View Count
-![](https://gh-hits.nomadcoders.workers.dev/view?username=galaxy092)
+![](https://gh-hits.nomadcoders.workers.dev/view?username=Cheapanha-Sok)
 
 ## Skills
 
