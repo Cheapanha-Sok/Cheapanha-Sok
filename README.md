@@ -6,4 +6,4 @@
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,html,css,js,react,redux,tailwind,postgres,docker,spring,linux,aws,laravel,maven,firebase,nginx,hibernate,vite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,html,css,js,react,redux,tailwind,postgres,docker,spring,linux,aws,laravel,maven,firebase,nginx,hibernate,vite,redis)](https://skillicons.dev)
