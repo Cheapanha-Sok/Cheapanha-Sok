@@ -300,8 +300,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="240" height="66" rx="18.0355" class="bubble" />
-    <text x="15" y="30">React, Springboot</text>
-    <text x="15" y="50">and Springboot Developer</text>
+    <text x="15" y="30">Software Engineer</text>
+    <text x="15" y="50">and AI Enthusiast</text>
   </g>
 
   <!-- typing 4 -->
@@ -351,7 +351,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="450" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm Application Programming Interface Enthusiast.</text>
+    <text x="15" y="27">I'm passionate about researching new things.</text>
   </g>
 
   <!-- typing 6 -->
